@@ -1,0 +1,19 @@
+{
+  "name": "my-student-management-system-01",
+  "version": "1.0.0",
+  "description": "This project is a simple console based Student Management System. In this project, you will be learning how to add a new student, how to generate a 5 digit unique student ID , how to enroll students in given courses. Also , you will be implementing the following operation enroll, view balance, pay tuition fees , show status etc.",
+  "main": "index.js",
+  "type": "module",
+  "bin":"main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
